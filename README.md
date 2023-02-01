@@ -25,7 +25,7 @@
 [![Codecov][all-contributors-shield]][all-contributors-url]
 [![Codecov][go-badge-shield]][go-badge-url]
 
-# Introduction
+# Introduction.
 
 ## Content
 
