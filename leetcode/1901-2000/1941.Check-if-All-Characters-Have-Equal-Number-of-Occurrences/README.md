@@ -1,7 +1,7 @@
 # [1941.Check if All Characters Have Equal Number of Occurrences][title]
 
 > [!WARNING|style:flat]
-> This question is temporarily unanswered if you have good ideas. Welcome to [Create Pull Request PR](https://github.com/kylesliu/awesome-golang-algorithm)
+> This question is temporarily unanswered if you have good ideas. Welcome to [Create Pull Request PR](https://github.com/Golang-Solutions/awesome-golang-algorithm)
 
 ## Description
 
@@ -29,4 +29,4 @@ Check if All Characters Have Equal Number of Occurrences
 如果你同我一样热爱数据结构、算法、LeetCode，可以关注我 GitHub 上的 LeetCode 题解：[awesome-golang-algorithm][me]
 
 [title]: https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/
-[me]: https://github.com/kylesliu/awesome-golang-algorithm
+[me]: https://github.com/Golang-Solutions/awesome-golang-algorithm

@@ -47,4 +47,4 @@ Explanation: [0,0] is the o
 如果你同我一样热爱数据结构、算法、LeetCode，可以关注我 GitHub 上的 LeetCode 题解：[awesome-golang-algorithm][me]
 
 [title]: https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/
-[me]: https://github.com/kylesliu/awesome-golang-algorithm
+[me]: https://github.com/Golang-Solutions/awesome-golang-algorithm
