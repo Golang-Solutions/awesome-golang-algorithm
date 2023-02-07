@@ -1,7 +1,7 @@
 # [1161.Maximum Level Sum of a Binary Tree][title]
 
 > [!WARNING|style:flat]
-> This question is temporarily unanswered if you have good ideas. Welcome to [Create Pull Request PR](https://github.com/kylesliu/awesome-golang-algorithm)
+> This question is temporarily unanswered if you have good ideas. Welcome to [Create Pull Request PR](https://github.com/Golang-Solutions/awesome-golang-algorithm)
 
 ## Description
 Given the root of a binary tree, the level of its root is 1, the level of its children is 2, and so on.
@@ -39,4 +39,4 @@ Maximum Level Sum of a Binary Tree
 如果你同我一样热爱数据结构、算法、LeetCode，可以关注我 GitHub 上的 LeetCode 题解：[awesome-golang-algorithm][me]
 
 [title]: https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/
-[me]: https://github.com/kylesliu/awesome-golang-algorithm
+[me]: https://github.com/Golang-Solutions/awesome-golang-algorithm

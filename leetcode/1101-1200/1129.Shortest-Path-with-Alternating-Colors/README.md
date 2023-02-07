@@ -1,7 +1,7 @@
 # [1129.Shortest Path with Alternating Colors][title]
 
 > [!WARNING|style:flat]
-> This question is temporarily unanswered if you have good ideas. Welcome to [Create Pull Request PR](https://github.com/kylesliu/awesome-golang-algorithm)
+> This question is temporarily unanswered if you have good ideas. Welcome to [Create Pull Request PR](https://github.com/Golang-Solutions/awesome-golang-algorithm)
 
 ## Description
 
@@ -29,4 +29,4 @@ Shortest Path with Alternating Colors
 如果你同我一样热爱数据结构、算法、LeetCode，可以关注我 GitHub 上的 LeetCode 题解：[awesome-golang-algorithm][me]
 
 [title]: https://leetcode.com/problems/shortest-path-with-alternating-colors/
-[me]: https://github.com/kylesliu/awesome-golang-algorithm
+[me]: https://github.com/Golang-Solutions/awesome-golang-algorithm

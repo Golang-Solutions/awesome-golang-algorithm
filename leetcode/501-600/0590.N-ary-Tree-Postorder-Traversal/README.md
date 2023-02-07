@@ -26,4 +26,4 @@ Output: [2,6,14,11,7,3,12,8,4,13,9,10,5,1]
 如果你同我一样热爱数据结构、算法、LeetCode，可以关注我 GitHub 上的 LeetCode 题解：[awesome-golang-algorithm][me]
 
 [title]: https://leetcode.com/problems/n-ary-tree-postorder-traversal/
-[me]: https://github.com/kylesliu/awesome-golang-algorithm
+[me]: https://github.com/Golang-Solutions/awesome-golang-algorithm
