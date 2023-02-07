@@ -1,6 +1,6 @@
 {
   "projectName": "awesome-golang-algorithm",
-  "projectOwner": "kylesliu",
+  "projectOwner": "Cori1109",
   "repoType": "github",
   "repoHost": "https://github.com",
   "files": [
@@ -10,10 +10,10 @@
   "commit": true,
   "contributors": [
     {
-      "login": "kylesliu",
-      "name": "Kyle Liu ",
-      "avatar_url": "https://avatars0.githubusercontent.com/u/26195433?v=4",
-      "profile": "https://kyle.link",
+      "login": "Cori1109",
+      "name": "Chris Jenkins ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/91684397?v=4",
+      "profile": "https://github.com/Cori1109",
       "contributions": [
         "code",
         "blog",

@@ -27,4 +27,4 @@ Explanation: The second 1 and third 1 are only one apart from each other.
 如果你同我一样热爱数据结构、算法、LeetCode，可以关注我 GitHub 上的 LeetCode 题解：[awesome-golang-algorithm][me]
 
 [title]: https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/
-[me]: https://github.com/kylesliu/awesome-golang-algorithm
+[me]: https://github.com/Golang-Solutions/awesome-golang-algorithm

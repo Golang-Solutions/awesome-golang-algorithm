@@ -27,4 +27,4 @@ Output: [10,12,21,23,32,34,43,45,54,56,65,67,76,78,87,89,98]
 如果你同我一样热爱数据结构、算法、LeetCode，可以关注我 GitHub 上的 LeetCode 题解：[awesome-golang-algorithm][me]
 
 [title]: https://leetcode.com/problems/numbers-with-same-consecutive-differences/
-[me]: https://github.com/kylesliu/awesome-golang-algorithm
+[me]: https://github.com/Golang-Solutions/awesome-golang-algorithm

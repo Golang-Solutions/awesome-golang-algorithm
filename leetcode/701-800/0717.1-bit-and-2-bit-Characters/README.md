@@ -1,7 +1,7 @@
 # [717.1-bit and 2-bit Characters][title]
 
 > [!WARNING|style:flat]
-> This question is temporarily unanswered if you have good ideas. Welcome to [Create Pull Request PR](https://github.com/kylesliu/awesome-golang-algorithm)
+> This question is temporarily unanswered if you have good ideas. Welcome to [Create Pull Request PR](https://github.com/Golang-Solutions/awesome-golang-algorithm)
 
 ## Description
 
@@ -46,4 +46,4 @@ The only way to decode it is two-bit character and two-bit character. So the las
 如果你同我一样热爱数据结构、算法、LeetCode，可以关注我 GitHub 上的 LeetCode 题解：[awesome-golang-algorithm][me]
 
 [title]: https://leetcode.com/problems/1-bit-and-2-bit-characters/
-[me]: https://github.com/kylesliu/awesome-golang-algorithm
+[me]: https://github.com/Golang-Solutions/awesome-golang-algorithm

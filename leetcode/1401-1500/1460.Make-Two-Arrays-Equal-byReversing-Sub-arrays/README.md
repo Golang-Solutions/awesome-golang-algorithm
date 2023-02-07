@@ -38,4 +38,4 @@ Explanation: arr does not have value 9 and it can never be converted to target.
 如果你同我一样热爱数据结构、算法、LeetCode，可以关注我 GitHub 上的 LeetCode 题解：[awesome-golang-algorithm][me]
 
 [title]: https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/
-[me]: https://github.com/kylesliu/awesome-golang-algorithm
+[me]: https://github.com/Golang-Solutions/awesome-golang-algorithm

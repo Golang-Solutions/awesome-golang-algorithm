@@ -38,4 +38,4 @@ You can rotate the array by x = 0 positions (i.e. no rotation) to make nums.
 如果你同我一样热爱数据结构、算法、LeetCode，可以关注我 GitHub 上的 LeetCode 题解：[awesome-golang-algorithm][me]
 
 [title]: https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/
-[me]: https://github.com/kylesliu/awesome-golang-algorithm
+[me]: https://github.com/Golang-Solutions/awesome-golang-algorithm
