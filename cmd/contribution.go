@@ -19,7 +19,7 @@ type Contributor struct {
 }
 
 const (
-	GITHUB_CONTRIBUTOR_API_URL   = "https://api.github.com/repos/kylesliu/awesome-golang-algorithm/contributors"
+	GITHUB_CONTRIBUTOR_API_URL   = "https://api.github.com/repos/Golang-Solutions/awesome-golang-algorithm/contributors"
 	GITHUB_CONTRIBUTOR_TMPL_PATH = "./tpl/.all-contributorsrc"
 )
 

@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/kylesliu/awesome-golang-algorithm">
+  <a href="https://github.com/Golang-Solutions/awesome-golang-algorithm">
     <img src="./assets/images/logo.png" alt="Logo" width="680" height="256">
   </a>
 
@@ -13,9 +13,9 @@
     <a href="https://a.gin.sh"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/kylesliu/awesome-golang-algorithm/issues">Report Bug</a>
+    <a href="https://github.com/Golang-Solutions/awesome-golang-algorithm/issues">Report Bug</a>
     ·
-    <a href="https://github.com/kylesliu/awesome-golang-algorithm/pulls">Pull Request</a>
+    <a href="https://github.com/Golang-Solutions/awesome-golang-algorithm/pulls">Pull Request</a>
   </p>
 </p>
 
@@ -29,8 +29,8 @@
 
 ## Content
 
-- LeetCode [Code](https://github.com/kylesliu/awesome-golang-algorithm/tree/master/leetcode) [Docs](https://a.gin.sh/docs/leetcode)
-- Sword Finger Offer[Code](https://github.com/kylesliu/awesome-golang-algorithm/tree/master/lcof) [Docs](https://a.gin.sh/docs/jzof)
+- LeetCode [Code](https://github.com/Golang-Solutions/awesome-golang-algorithm/tree/master/leetcode) [Docs](https://a.gin.sh/docs/leetcode)
+- Sword Finger Offer[Code](https://github.com/Golang-Solutions/awesome-golang-algorithm/tree/master/lcof) [Docs](https://a.gin.sh/docs/jzof)
 
 ## Community
 
@@ -48,22 +48,10 @@ Thanks goes to these wonderful people \([emoji key](https://github.com/all-contr
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://gin.sh/"><img src="https://avatars.githubusercontent.com/u/26195433?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Kyle Liu</b></sub></a><br /><a href="#mentoring-kylesliu" title="Mentoring">🧑‍🏫</a> <a href="https://github.com/kylesliu/awesome-golang-algorithm/commits?author=kylesliu" title="Code">💻</a> <a href="#design-kylesliu" title="Design">🎨</a> <a href="https://github.com/kylesliu/awesome-golang-algorithm/commits?author=kylesliu" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/hapiman2"><img src="https://avatars.githubusercontent.com/u/34671440?v=4?s=100" width="100px;" alt=""/><br /><sub><b>hapiman2</b></sub></a><br /><a href="https://github.com/kylesliu/awesome-golang-algorithm/commits?author=hapiman2" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/saenaii"><img src="https://avatars.githubusercontent.com/u/18567791?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Inori</b></sub></a><br /><a href="https://github.com/kylesliu/awesome-golang-algorithm/commits?author=saenaii" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/hiepndd"><img src="https://avatars.githubusercontent.com/u/23348270?v=4?s=100" width="100px;" alt=""/><br /><sub><b>hiepndd</b></sub></a><br /><a href="https://github.com/kylesliu/awesome-golang-algorithm/commits?author=hiepndd" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/reverse"><img src="https://avatars.githubusercontent.com/u/50089806?v=4?s=100" width="100px;" alt=""/><br /><sub><b>McKinnon</b></sub></a><br /><a href="https://github.com/kylesliu/awesome-golang-algorithm/commits?author=reverse" title="Code">💻</a></td>
-    <td align="center"><a href="https://awesee.github.io/"><img src="https://avatars.githubusercontent.com/u/6274967?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Shuo</b></sub></a><br /><a href="https://github.com/kylesliu/awesome-golang-algorithm/commits?author=awesee" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/sihgyu"><img src="https://avatars.githubusercontent.com/u/26058740?v=4?s=100" width="100px;" alt=""/><br /><sub><b>sihg yu</b></sub></a><br /><a href="https://github.com/kylesliu/awesome-golang-algorithm/commits?author=sihgyu" title="Code">💻</a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://stevenshuang.github.io/"><img src="https://avatars.githubusercontent.com/u/20641704?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Coco</b></sub></a><br /><a href="https://github.com/kylesliu/awesome-golang-algorithm/commits?author=0xff-dev" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/plusweiwei"><img src="https://avatars.githubusercontent.com/u/38197795?v=4?s=100" width="100px;" alt=""/><br /><sub><b>plusweiwei</b></sub></a><br /><a href="https://github.com/kylesliu/awesome-golang-algorithm/commits?author=plusweiwei" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/ghost123gg"><img src="https://avatars.githubusercontent.com/u/16897277?v=4?s=100" width="100px;" alt=""/><br /><sub><b>ghost123gg</b></sub></a><br /><a href="https://github.com/kylesliu/awesome-golang-algorithm/commits?author=ghost123gg" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/go-ky"><img src="https://avatars.githubusercontent.com/u/46020549?v=4?s=100" width="100px;" alt=""/><br /><sub><b>go-ky</b></sub></a><br /><a href="https://github.com/kylesliu/awesome-golang-algorithm/commits?author=go-ky" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/bumblebee211196"><img src="https://avatars.githubusercontent.com/u/66869647?v=4?s=100" width="100px;" alt=""/><br /><sub><b>bumblebee</b></sub></a><br /><a href="https://github.com/kylesliu/awesome-golang-algorithm/commits?author=bumblebee211196" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/jameschengds"><img src="https://avatars.githubusercontent.com/u/34215053?v=4?s=100" width="100px;" alt=""/><br /><sub><b>cheng qianxiang</b></sub></a><br /><a href="https://github.com/kylesliu/awesome-golang-algorithm/commits?author=jameschengds" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/vortex-17"><img src="https://avatars.githubusercontent.com/u/42715642?v=4?s=100" width="100px;" alt=""/><br /><sub><b>vortex-17</b></sub></a><br /><a href="https://github.com/kylesliu/awesome-golang-algorithm/commits?author=vortex-17" title="Code">💻</a></td>
+    <td align="center"><a href="https://gin.sh/"><img src="https://avatars.githubusercontent.com/u/91684397?s=100&v=4" width="100px;" alt=""/><br /><sub><b>Chris</b></sub></a><br /><a href="#mentoring-Cori1109" title="Mentoring">🧑‍🏫</a> <a href="https://github.com/Golang-Solutions/awesome-golang-algorithm/commits?author=Cori1109" title="Code">💻</a> <a href="#design-Cori1109" title="Design">🎨</a> <a href="https://github.com/Golang-Solutions/awesome-golang-algorithm/commits?author=Cori1109" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/NightKari"><img src="https://avatars.githubusercontent.com/u/115139186?s=100&v=4" width="100px;" alt=""/><br /><sub><b>Kari</b></sub></a><br /><a href="https://github.com/Golang-Solutions/awesome-golang-algorithm/commits?author=NightKari" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/richman225"><img src="https://avatars.githubusercontent.com/u/88765399?s=100&v=4" width="100px;" alt=""/><br /><sub><b>Richman</b></sub></a><br /><a href="https://github.com/Golang-Solutions/awesome-golang-algorithm/commits?author=richman225" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/G-Leopard"><img src="https://avatars.githubusercontent.com/u/122800281?s=100&v=4" width="100px;" alt=""/><br /><sub><b>Leonid</b></sub></a><br /><a href="https://github.com/Golang-Solutions/awesome-golang-algorithm/commits?author=G-Leopard" title="Code">💻</a></td>
   </tr>
 </table>
 
@@ -75,13 +63,13 @@ Thanks goes to these wonderful people \([emoji key](https://github.com/all-contr
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[build-status-shield]: https://www.travis-ci.org/kylesliu/awesome-golang-algorithm.svg?branch=master
-[build-status-url]: https://www.travis-ci.org/kylesliu/awesome-golang-algorithm
-[codecov-shield]: https://codecov.io/gh/kylesliu/awesome-golang-algorithm/branch/master/graph/badge.svg
-[codecov-url]: https://codecov.io/gh/kylesliu/awesome-golang-algorithm
-[golangci-shield]: https://golangci.com/badges/github.com/kylesliu/awesome-golang-algorithm.svg
-[golangci-url]: https://img.shields.io/github/stars/kylesliu/awesome-golang-algorithm.svg?label=Stars&style=social
+[build-status-shield]: https://www.travis-ci.org/Golang-Solutions/awesome-golang-algorithm.svg?branch=master
+[build-status-url]: https://www.travis-ci.org/Golang-Solutions/awesome-golang-algorithm
+[codecov-shield]: https://codecov.io/gh/Golang-Solutions/awesome-golang-algorithm/branch/master/graph/badge.svg
+[codecov-url]: https://codecov.io/gh/Golang-Solutions/awesome-golang-algorithm
+[golangci-shield]: https://golangci.com/badges/github.com/Golang-Solutions/awesome-golang-algorithm.svg
+[golangci-url]: https://img.shields.io/github/stars/Golang-Solutions/awesome-golang-algorithm.svg?label=Stars&style=social
 [all-contributors-shield]: https://img.shields.io/badge/All_Contributors-12-blue.svg
-[all-contributors-url]: https://img.shields.io/github/stars/kylesliu/awesome-golang-algorithm.svg?label=Stars&style=social
-[go-badge-shield]: https://github.com/kylesliu/awesome-golang-algorithm/workflows/Go/badge.svg?branch=master&event=push
-[go-badge-url]: https://github.com/kylesliu/awesome-golang-algorithm/actions
+[all-contributors-url]: https://img.shields.io/github/stars/Golang-Solutions/awesome-golang-algorithm.svg?label=Stars&style=social
+[go-badge-shield]: https://github.com/Golang-Solutions/awesome-golang-algorithm/workflows/Go/badge.svg?branch=master&event=push
+[go-badge-url]: https://github.com/Golang-Solutions/awesome-golang-algorithm/actions

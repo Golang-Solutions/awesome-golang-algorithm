@@ -38,4 +38,4 @@ Explanation: There is no such common subsequence, so the result is 0.
 如果你同我一样热爱数据结构、算法、LeetCode，可以关注我 GitHub 上的 LeetCode 题解：[awesome-golang-algorithm][me]
 
 [title]: https://leetcode.com/problems/longest-common-subsequence/
-[me]: https://github.com/kylesliu/awesome-golang-algorithm
+[me]: https://github.com/Golang-Solutions/awesome-golang-algorithm
